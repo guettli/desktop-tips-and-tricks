@@ -17,3 +17,12 @@ From right to left: Calendar, Chat, Mail, Docs, Translator
 
 * Snooze
 * [Simple gmail notes](https://chrome.google.com/webstore/detail/simple-gmail-notes/jfjkcbkgjohminidbpendlodpfacgmlm)
+
+## Typing with ten fingers
+It makes typing much easier
+
+## Keyboard
+
+I love the Lenovo track point with extra grip. 
+
+[sandpaper sticked on trackpoing image](https://raw.githubusercontent.com/guettli/programming-guidelines/master/sandpaper-sticked-on-track-point.jpg)
