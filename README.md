@@ -14,4 +14,4 @@ From right to left: Calendar, Chat, Mail, Docs, Translator
 ## GMail
 
 * Snooze
-* [Simple gmail notes](https://chrome.google.com/webstore/detail/simple-gmail-notes/)
+* [Simple gmail notes](https://chrome.google.com/webstore/detail/simple-gmail-notes/jfjkcbkgjohminidbpendlodpfacgmlm)
