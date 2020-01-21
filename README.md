@@ -1,5 +1,7 @@
 # Desktop tips and tricks
 
+This page is for everybody. If you are a software developer, then please have a look at [my guidelines](https://github.com/guettli/programming-guidelines)
+
 ## Copy+Paste History
 diodon on Linux, CopyQ on Windows, TODO on Mac.
 
