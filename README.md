@@ -27,3 +27,7 @@ It makes typing much easier
 I love the Lenovo track point with extra grip. 
 
 [sandpaper sticked on trackpoing image](https://raw.githubusercontent.com/guettli/programming-guidelines/master/sandpaper-sticked-on-track-point.jpg)
+
+## Preparation for daily standup meeting
+
+I write into the calendar the things I worked on. This way it is easy to talk about the past day in the daily stand-up meeting (scrum).
