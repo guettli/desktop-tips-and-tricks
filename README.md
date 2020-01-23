@@ -12,6 +12,7 @@ From right to left: Calendar, Chat, Mail, Docs, Translator
 ## Slack
 
 * Action on message: Remind be about this ... tomorrow.
+* Direct Messages / Slackbot. n-days-later-method works. Nice
 
 ## GMail
 
