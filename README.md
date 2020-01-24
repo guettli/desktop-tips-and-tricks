@@ -5,9 +5,15 @@ This page is for everybody. If you are a software developer, then please have a 
 ## Copy+Paste History
 diodon on Linux, CopyQ on Windows, TODO on Mac.
 
-## Chrome pinned tabs
+## Chrome 
+
+### Pinned Tabs
 
 From right to left: Calendar, Chat, Mail, Docs, Translator
+
+### Long press back button
+
+History: The title says a lot (for example in gmail: Access one of the last mails)
 
 ## Slack
 
