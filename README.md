@@ -7,6 +7,10 @@ diodon on Linux, CopyQ on Windows, TODO on Mac.
 
 ## Chrome 
 
+### Native GUI vs Chrome
+
+Native GUI? No, if I want to work from a different device, then I don't have the files from the local drive. Yes, I could sync them, but for me in browser (Software as a Service) is easier.  
+
 ### Pinned Tabs
 
 From right to left: Calendar, Chat, Mail, Docs, Translator
@@ -41,3 +45,8 @@ I love the Lenovo track point with extra grip.
 ## Preparation for daily standup meeting
 
 I write into the calendar the things I worked on. This way it is easy to talk about the past day in the daily stand-up meeting (scrum).
+
+## Paint on Screenshots
+
+With google slides. 
+
