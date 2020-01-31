@@ -15,6 +15,10 @@ From right to left: Calendar, Chat, Mail, Docs, Translator
 
 History: The title says a lot (for example in gmail: Access one of the last mails)
 
+### One laptop, two chrome profiles (personal, business)
+
+See profile image right to the URL in chrome.
+
 ## Slack
 
 * Action on message: Remind be about this ... tomorrow.
