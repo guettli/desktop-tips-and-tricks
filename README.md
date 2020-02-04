@@ -3,7 +3,10 @@
 This page is for everybody. If you are a software developer, then please have a look at [my guidelines](https://github.com/guettli/programming-guidelines)
 
 ## Copy+Paste History
-diodon on Linux, CopyQ on Windows, TODO on Mac.
+
+A clipboard manager is a great tool. Don't ask my why only few people is one.
+
+[CopyQ](https://github.com/hluk/CopyQ) work on Linux, Windows, Mac.
 
 ## Chrome 
 
