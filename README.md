@@ -2,6 +2,9 @@
 
 This page is for everybody. If you are a software developer, then please have a look at [my guidelines](https://github.com/guettli/programming-guidelines)
 
+## Monitor
+reduce brightness. I most cases the screen is too bright.
+
 ## Copy+Paste History
 
 A clipboard manager is a great tool. Don't ask my why only few people is one.
