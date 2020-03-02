@@ -25,6 +25,16 @@ From right to left: Calendar, Chat, Mail, Docs, Translator
 
 History: The title says a lot (for example in gmail: Access one of the last mails)
 
+### Bookmarks are dead, long live autocomplete in address bar
+
+I need to open a lot of different tools daily. In the past I used bookmarks, but this does not make
+sense any more.
+
+The autocomplete in the chrome address bar is fine. You just need to remember some part of the URL or 
+the title of the page you want to open.
+
+
+
 ### One laptop, two chrome profiles (personal, business)
 
 See profile image right to the URL in chrome.
