@@ -54,7 +54,7 @@ See profile image right to the URL in chrome.
 
 How I find/open a particular document the fastest way (in my case a google doc in gdrive)? I type the word of the title of the doc into the address bar of chrome.
 
-For example things which annoy me are in the doc called "grrrr". It is opened very fast: ctrl-t (open new tab in browser), then "grr" and then it is one of the results below the cursor. I love it.
+For example things which annoy me are in the doc called "grrrr" - my digital barf bag. It is opened very fast: ctrl-t (open new tab in browser), then "grr" and then it is one of the results below the cursor. I love it.
 
 
 
