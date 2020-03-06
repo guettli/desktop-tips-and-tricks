@@ -46,6 +46,10 @@ See profile image right to the URL in chrome.
 * Shortcuts: https://slack.com/intl/en-de/help/articles/201374536-Slack-keyboard-shortcuts
 * Some of my questions which are not solved yet: [webapps.stackexchange.com user:guettli [slack]](https://webapps.stackexchange.com/search?q=user%3A95624+%5Bslack%5D)
 
+Goal: Use the chat without touching the mouse. Shortcuts I use:
+* F6: moves to the next section
+* Alt-left-arrow, Alt-right-arrow: move
+
 ## GMail
 
 * Snooze
