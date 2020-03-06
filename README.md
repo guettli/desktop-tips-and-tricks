@@ -44,6 +44,7 @@ See profile image right to the URL in chrome.
 * Action on message: Remind be about this ... tomorrow.
 * Direct Messages / Slackbot. n-days-later-method works. Nice
 * Shortcuts: https://slack.com/intl/en-de/help/articles/201374536-Slack-keyboard-shortcuts
+* Some of my questions which are not solved yet: https://webapps.stackexchange.com/search?q=user%3A95624+%5Bslack%5D
 
 ## GMail
 
