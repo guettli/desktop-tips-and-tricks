@@ -13,6 +13,12 @@ A clipboard manager is a great tool. Don't ask my why only few people is one.
 
 ## Chrome 
 
+### Shortcuts
+
+https://support.google.com/chrome/answer/157179
+
+* ctrl-t: new tab. Then autocomplete in address bar.
+
 ### Native GUI vs Chrome
 
 Native GUI? No, if I want to work from a different device, then I don't have the files from the local drive. Yes, I could sync them, but for me in browser (Software as a Service) is easier.  
