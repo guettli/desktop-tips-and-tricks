@@ -17,7 +17,17 @@ A clipboard manager is a great tool. Don't ask my why only few people is one.
 
 https://support.google.com/chrome/answer/157179
 
-* ctrl-t: new tab. Then autocomplete in address bar.
+* Ctrl + t: new tab. Then autocomplete in address bar.
+* Ctrl + Shift + t: Reopen previously closed tabs in the order they were closed
+* Ctrl + number-of-tab: Jump to numbered tab
+* Ctrl + f: Open the Find Bar to search the current page	
+* Ctrl + Shift + j: Open Developer Tools	
+* F11: Turn full-screen mode on or off	
+* Ctrl and +: Make everything on the page bigger	
+
+
+Third (pinned) tab is the mail app. I can start to compose a new mail with ctr + 3, "c".
+
 
 ### Native GUI vs Chrome
 
