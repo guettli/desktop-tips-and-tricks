@@ -51,7 +51,7 @@ the title of the page you want to open.
 
 ### Extensions
 
-[Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb) like IntelliJ: A keyboard centric most recently used (MRU) ordered tab list plugin with search and switch functionality inspired by IntelliJ IDEA
+[Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb): A keyboard centric most recently used (MRU) ordered tab list plugin with search and switch functionality inspired by IntelliJ IDEA
 
 
 
