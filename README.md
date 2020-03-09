@@ -98,5 +98,6 @@ I write into the calendar the things I worked on. This way it is easy to talk ab
 
 ## Paint on Screenshots
 
-With google slides. 
+* With Gimp
+* With google slides: Put screenshot in the background. Benefit: Lines/Text etc can get changed later again.
 
