@@ -49,6 +49,10 @@ sense any more.
 The autocomplete in the chrome address bar is fine. You just need to remember some part of the URL or 
 the title of the page you want to open.
 
+### Extensions
+
+[Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb) like IntelliJ: A keyboard centric most recently used (MRU) ordered tab list plugin with search and switch functionality inspired by IntelliJ IDEA
+
 
 
 ### One laptop, two chrome profiles (personal, business)
