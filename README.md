@@ -116,6 +116,9 @@ I write into the calendar the things I worked on. This way it is easy to talk ab
 defaults write com.apple.screencapture location $HOME/Downloads
 ```
 
+* For Mac: To copy a screenshot to the Clipboard, press and hold the Control key while you take the screenshot. Press and hold these three keys together: Shift, Command, and 4 (and Control key for Clipboard) https://support.apple.com/en-us/HT201361
+
+
 ## Drawing on Screenshots
 
 * https://szoter.com/launch/ Very simple user interface. I like it.
