@@ -84,7 +84,10 @@ For example things which annoy me are in the doc called "grrrr" - my digital bar
 
 
 ## Typing with ten fingers
-It makes typing much easier
+
+It makes typing much easier.
+
+Free Webapp to learn it: https://www.tipp10.com/
 
 ## Keyboard
 
