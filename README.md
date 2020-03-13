@@ -72,6 +72,14 @@ Goal: Use the chat without touching the mouse. Shortcuts I use:
 * F6: moves to the next section
 * Alt-left-arrow, Alt-right-arrow: move
 
+### Slack: Focused walk through the last messages in "Threads".
+
+* Click on "Threads" (upper left corner)
+* Press TAB until the latest (upper) message in "Threads" gets highlighted with a blue box.
+* Now you can press arrow-down/up to walk through the messages step-by-step.
+
+I prefer this to scrolling, since the blue box helps you to keep the focus.
+
 ## Gmail
 
 * Snooze
