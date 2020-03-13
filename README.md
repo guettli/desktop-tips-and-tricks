@@ -109,14 +109,10 @@ I love the Lenovo track point with extra grip.
 
 I write into the calendar the things I worked on. This way it is easy to talk about the past day in the daily stand-up meeting (scrum).
 
-## Taking Screenshots
+## Taking Screenshots (Mac)
 
-* For Mac: Change location of screenshots from Desktop to Downloads (Source [Aks Different](https://apple.stackexchange.com/a/258696/155989)) (In terminal)
-```
-defaults write com.apple.screencapture location $HOME/Downloads
-```
-
-* For Mac: To copy a screenshot to the Clipboard, press and hold the Control key while you take the screenshot. Press and hold these three keys together: Shift, Command, and 4 (and Control key for Clipboard) https://support.apple.com/en-us/HT201361
+* Doc: Screenshot / Options / **Clipboard**
+* Press and hold these three keys together: Shift, Command, and 4 https://support.apple.com/en-us/HT201361
 
 
 ## Drawing on Screenshots
