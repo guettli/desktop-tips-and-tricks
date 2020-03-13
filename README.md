@@ -101,6 +101,13 @@ I love the Lenovo track point with extra grip.
 
 I write into the calendar the things I worked on. This way it is easy to talk about the past day in the daily stand-up meeting (scrum).
 
+## Taking Screenshots
+
+* For Mac: Change location of screenshots from Desktop to Downloads (Source [Aks Different](https://apple.stackexchange.com/a/258696/155989)) (In terminal)
+```
+defaults write com.apple.screencapture location $HOME/Downloads
+```
+
 ## Drawing on Screenshots
 
 * https://szoter.com/launch/ Very simple user interface. I like it.
