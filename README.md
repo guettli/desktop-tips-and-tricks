@@ -96,8 +96,10 @@ I love the Lenovo track point with extra grip.
 
 I write into the calendar the things I worked on. This way it is easy to talk about the past day in the daily stand-up meeting (scrum).
 
-## Paint on Screenshots
+## Drawing on Screenshots
 
+* https://szoter.com/launch/ Very simple user interface. I like it.
 * With Gimp
 * With google slides: Put screenshot in the background. Benefit: Lines/Text etc can get changed later again.
+* Google drawing: https://docs.google.com/drawings/
 
