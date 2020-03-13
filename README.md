@@ -114,6 +114,9 @@ I write into the calendar the things I worked on. This way it is easy to talk ab
 * Doc: Screenshot / Options / **Clipboard**
 * Press and hold these three keys together: Shift, Command, and 4 https://support.apple.com/en-us/HT201361
 
+## Anonymizing Screenshots (and other images)
+
+* Gimp
 
 ## Drawing on Screenshots
 
