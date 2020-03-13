@@ -1,13 +1,15 @@
 # Desktop tips and tricks
 
-This page is for everybody. If you are a software developer, then please have a look at [my guidelines](https://github.com/guettli/programming-guidelines)
+This page is for everybody working with a desktop computer. If you are a software developer, then please have a look at [my guidelines](https://github.com/guettli/programming-guidelines)
+
+Although mobile interfaces are very important. I prefer a desktop PC/Laptop for daily **work**. In spare time I use my mobile phone more than my desktop PC/Laptop.
 
 ## Monitor
 reduce brightness. I most cases the screen is too bright.
 
 ## Copy+Paste History
 
-A clipboard manager is a great tool. Don't ask my why only few people is one.
+A clipboard manager is a great tool. Don't ask me why only a few people use one.
 
 [CopyQ](https://github.com/hluk/CopyQ) work on Linux, Windows, Mac.
 
@@ -20,18 +22,18 @@ https://support.google.com/chrome/answer/157179
 * Ctrl + t: new tab. Then autocomplete in address bar.
 * Ctrl + Shift + t: Reopen previously closed tabs in the order they were closed
 * Ctrl + number-of-tab: Jump to numbered tab
-* Ctrl + f: Open the Find Bar to search the current page	
-* Ctrl + Shift + j: Open Developer Tools	
-* F11: Turn full-screen mode on or off	
-* Ctrl and +: Make everything on the page bigger	
+* Ctrl + f: Open the Find Bar to search the current page    
+* Ctrl + Shift + j: Open Developer Tools    
+* F11: Turn full-screen mode on or off    
+* Ctrl and +: Make everything on the page bigger    
 
 
-Third (pinned) tab is the mail app. I can start to compose a new mail with ctr + 3, "c".
+The third (pinned) tab is the mail app. I can start to compose a new mail with ctr + 3, "c".
 
 
 ### Native GUI vs Chrome
 
-Native GUI? No, if I want to work from a different device, then I don't have the files from the local drive. Yes, I could sync them, but for me in browser (Software as a Service) is easier.  
+Native GUI? No, if I want to work from a different device, then I don't have the files from the local drive. Yes, I could sync them, but for me in the browser (Software as a Service) is easier.  
 
 ### Pinned Tabs
 
@@ -39,9 +41,9 @@ From right to left: Calendar, Chat, Mail, Docs, Translator
 
 ### Long press back button
 
-History: The title says a lot (for example in gmail: Access one of the last mails)
+History: The title says a lot (for example in Gmail: Access one of the last mails)
 
-### Bookmarks are dead, long live autocomplete in address bar
+### Bookmarks are dead, autocomplete in the address bar is king
 
 I need to open a lot of different tools daily. In the past I used bookmarks, but this does not make
 sense any more.
@@ -61,7 +63,7 @@ See profile image right to the URL in chrome.
 
 ## Slack
 
-* Action on message: Remind be about this ... tomorrow.
+* Action on message: Remind me about this ... tomorrow.
 * Direct Messages / Slackbot. n-days-later-method works. Nice
 * Shortcuts: https://slack.com/intl/en-de/help/articles/201374536-Slack-keyboard-shortcuts
 * Some of my questions which are not solved yet: [webapps.stackexchange.com user:guettli [slack]](https://webapps.stackexchange.com/search?q=user%3A95624+%5Bslack%5D)
@@ -70,7 +72,7 @@ Goal: Use the chat without touching the mouse. Shortcuts I use:
 * F6: moves to the next section
 * Alt-left-arrow, Alt-right-arrow: move
 
-## GMail
+## Gmail
 
 * Snooze
 * [Simple gmail notes](https://chrome.google.com/webstore/detail/simple-gmail-notes/jfjkcbkgjohminidbpendlodpfacgmlm)
@@ -79,7 +81,7 @@ Goal: Use the chat without touching the mouse. Shortcuts I use:
 
 How I find/open a particular document the fastest way (in my case a google doc in gdrive)? I type the word of the title of the doc into the address bar of chrome.
 
-For example things which annoy me are in the doc called "grrrr" - my digital barf bag. It is opened very fast: ctrl-t (open new tab in browser), then "grr" and then it is one of the results below the cursor. I love it.
+For example, things which annoy me are in the doc called "grrrr" - my digital barf bag. It is opened very fast: ctrl-t (open new tab in the browser), then "grr" and then it is one of the results below the cursor. I love it.
 
 
 
@@ -87,15 +89,15 @@ For example things which annoy me are in the doc called "grrrr" - my digital bar
 
 It makes typing much easier.
 
-Free Webapp to learn it: https://www.tipp10.com/
+Free Web app to learn it: https://www.tipp10.com/
 
 ## Keyboard
 
 I love the Lenovo track point with extra grip. 
 
-[sandpaper sticked on trackpoing image](https://raw.githubusercontent.com/guettli/programming-guidelines/master/sandpaper-sticked-on-track-point.jpg)
+[sandpaper stuck on Trackpoint image](https://raw.githubusercontent.com/guettli/programming-guidelines/master/sandpaper-sticked-on-track-point.jpg)
 
-## Preparation for daily standup meeting
+## Preparation for the daily standup meeting
 
 I write into the calendar the things I worked on. This way it is easy to talk about the past day in the daily stand-up meeting (scrum).
 
