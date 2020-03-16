@@ -85,6 +85,10 @@ I prefer this to scrolling, since the blue box helps you to keep the focus.
 * Snooze
 * [Simple gmail notes](https://chrome.google.com/webstore/detail/simple-gmail-notes/jfjkcbkgjohminidbpendlodpfacgmlm)
 
+## Google Drive
+
+* Search: "title:foo" or via ▼
+
 ## Open particular document
 
 How I find/open a particular document the fastest way (in my case a google doc in gdrive)? I type the word of the title of the doc into the address bar of chrome.
