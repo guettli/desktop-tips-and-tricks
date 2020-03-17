@@ -59,6 +59,7 @@ the title of the page you want to open.
 
 Option "Keep last searched string in search box". I guess you want this to be "off". Right-click on icon right to the chrome address bar. Then Options, then "Keep last searched string in search box".
 
+Option "Jump to previous tab on close of any tab (Tip: use to close tabs in reverse order, aka. undo your mess)" is handy. Usually you press ctrl-t to open a new tab. Then you do you work in this tab. If you close this tab (for example with ctrl-w), then you get back to the tab which had the focus before you pressed ctrl-t. That's the most obvious thing, and I don't understand why this is not the default of chrome.
 
 ### One laptop, two chrome profiles (personal, business)
 
