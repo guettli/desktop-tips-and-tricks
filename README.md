@@ -4,6 +4,8 @@ This page is for everybody working with a desktop computer. If you are a softwar
 
 Although mobile interfaces are very important. I prefer a desktop PC/Laptop for daily **work**. In spare time I use my mobile phone more than my desktop PC/Laptop.
 
+I think mobile interfaces are overrated at the moment. It is like the [Pork cycle](https://en.wikipedia.org/wiki/Pork_cycle) mobile interfaces are the current hype. Some years later people will re-invent keyboard focused application. Hypes come and go and come and go....
+
 ## Monitor
 reduce brightness. I most cases the screen is too bright.
 
