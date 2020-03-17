@@ -26,7 +26,7 @@ https://support.google.com/chrome/answer/157179
 * Ctrl + Shift + j: Open Developer Tools    
 * F11: Turn full-screen mode on or off    
 * Ctrl and +: Make everything on the page bigger    
-
+* Ctrl-l: Jump to the address bar (for searching a term or going to a previous page)
 
 The third (pinned) tab is the mail app. I can start to compose a new mail with ctr + 3, "c".
 
