@@ -135,3 +135,15 @@ I write into the calendar the things I worked on. This way it is easy to talk ab
 * With google slides: Put screenshot in the background. Benefit: Lines/Text etc can get changed later again.
 * Google drawing: https://docs.google.com/drawings/
 
+# File Sync: Google Drive / DropBox / Nextcloud
+
+These file sync applications are handy: At home I scan sheets of paper with the HP-Smart app. Then I upload the file to Nextcloud. Then I can attach the scan in PDF format to an email.
+
+But for more most other things I don't need my local file system any more.
+
+I don't use a backup tool for my PC anymore. All my files are in Google Drive, Nextcloud or on github.
+
+And the configuration of my browser (chrome) is stored in the cloud.
+
+Living is easy with eys closed ... (Beatles)
+
