@@ -103,7 +103,7 @@ For example, things which annoy me are in the doc called "grrrr" - my digital ba
 
 ## Google Docs: Open the folder of the current document:
 
-[google-docs-open-folder.png]
+[google docs, open folder of the current document](google-docs-open-folder.png)
 
 
 ## Typing with ten fingers
