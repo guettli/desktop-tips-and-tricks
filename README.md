@@ -29,6 +29,7 @@ https://support.google.com/chrome/answer/157179
 * F11: Turn full-screen mode on or off    
 * Ctrl and +: Make everything on the page bigger    
 * Ctrl-l: Jump to the address bar (for searching a term or going to a previous page)
+* Alt + Left arrow:  Open the previous page from your browsing history in the current tab
 
 The third (pinned) tab is the mail app. I can start to compose a new mail with ctr + 3, "c".
 
@@ -69,6 +70,8 @@ See profile image right to the URL in chrome.
 
 ## Slack
 
+I use the web version of slack.
+
 * Action on message: Remind me about this ... tomorrow.
 * Direct Messages / Slackbot. n-days-later-method works. Nice
 * Shortcuts: https://slack.com/intl/en-de/help/articles/201374536-Slack-keyboard-shortcuts
@@ -77,6 +80,9 @@ See profile image right to the URL in chrome.
 Goal: Use the chat without touching the mouse. Shortcuts I use:
 * F6: moves to the next section
 * Alt-left-arrow, Alt-right-arrow: move
+
+* ctrl-k: goto channel or contact
+* Alt + Left arrow (Chrome shortcut): Open the previous page from your browsing history in the current tab
 
 ### Slack: Focused walk through the last messages in "Threads".
 
