@@ -92,25 +92,6 @@ Goal: Use the chat without touching the mouse. Shortcuts I use:
 
 I prefer this to scrolling, since the blue box helps you to keep the focus.
 
-## Gmail
-
-* Snooze
-* [Simple gmail notes](https://chrome.google.com/webstore/detail/simple-gmail-notes/jfjkcbkgjohminidbpendlodpfacgmlm)
-
-## Google Drive
-
-* Search: "title:foo" or via ▼
-
-## Open particular document
-
-How I find/open a particular document the fastest way (in my case a google doc in gdrive)? I type the word of the title of the doc into the address bar of chrome.
-
-For example, things which annoy me are in the doc called "grrrr" - my digital barf bag. It is opened very fast: ctrl-t (open new tab in the browser), then "grr" and then it is one of the results below the cursor. I love it.
-
-## Google Docs: Open the folder of the current document:
-
-[google docs, open folder of the current document](google-docs-open-folder.png)
-
 
 ## Typing with ten fingers
 
@@ -124,35 +105,6 @@ I love the Lenovo track point with extra grip.
 
 [sandpaper stuck on Trackpoint image](https://raw.githubusercontent.com/guettli/programming-guidelines/master/sandpaper-sticked-on-track-point.jpg)
 
-## Preparation for the daily standup meeting
-
-I write into the calendar the things I worked on. This way it is easy to talk about the past day in the daily stand-up meeting (scrum).
-
-## Taking Screenshots (Mac)
-
-* Doc: Screenshot / Options / **Clipboard**
-* Press and hold these three keys together: Shift, Command, and 4 https://support.apple.com/en-us/HT201361
-
-## Anonymizing Screenshots (and other images)
-
-* Gimp
-
 ## Drawing on Screenshots
 
 * https://szoter.com/launch/ Very simple user interface. I like it.
-* With Gimp
-* With google slides: Put screenshot in the background. Benefit: Lines/Text etc can get changed later again.
-* Google drawing: https://docs.google.com/drawings/
-
-# File Sync: Google Drive / DropBox / Nextcloud
-
-These file sync applications are handy: At home I scan sheets of paper with the HP-Smart app. Then I upload the file to Nextcloud. Then I can attach the scan in PDF format to an email.
-
-But for more most other things I don't need my local file system any more.
-
-I don't use a backup tool for my PC anymore. All my files are in Google Drive, Nextcloud or on github.
-
-And the configuration of my browser (chrome) is stored in the cloud.
-
-Living is easy with eys closed ... (Beatles)
-
