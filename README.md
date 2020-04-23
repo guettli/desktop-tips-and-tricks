@@ -58,7 +58,9 @@ the title of the page you want to open.
 
 #### Chrome Extension "Quick Tabs"
 
-[Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb): A keyboard centric most recently used (MRU) ordered tab list plugin with search and switch functionality (inspired by IntelliJ IDEA). On Linux you can map the short-cut to ctrl-e (like in PyCharm) via [chrome://extensions/shortcuts](chrome://extensions/shortcuts). See [issue 305](https://github.com/babyman/quick-tabs-chrome-extension/issues/305)
+[Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb): A keyboard centric most recently used (MRU) ordered tab list plugin with search and switch functionality (inspired by IntelliJ IDEA). 
+
+On Linux you can map the short-cut to ctrl-e (like in PyCharm) via [chrome://extensions/shortcuts](chrome://extensions/shortcuts). See [issue 305](https://github.com/babyman/quick-tabs-chrome-extension/issues/305)
 
 Option "Keep last searched string in search box". I guess you want this to be "off". Right-click on icon right to the chrome address bar. Then Options, then "Keep last searched string in search box".
 
