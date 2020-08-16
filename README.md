@@ -7,13 +7,17 @@ Although mobile interfaces are very important. I prefer a desktop PC/Laptop for 
 I think mobile interfaces are overrated at the moment. It is like the [Pork cycle](https://en.wikipedia.org/wiki/Pork_cycle) mobile interfaces are the current hype. Some years later people will re-invent keyboard focused application. Hypes come and go and come and go....
 
 ## Monitor
-reduce brightness. I most cases the screen is too bright.
+Reduce brightness. In most cases the screen is too bright.
 
 ## Copy+Paste History
 
 A clipboard manager is a great tool. Don't ask me why only a few people use one.
 
 [CopyQ](https://github.com/hluk/CopyQ) work on Linux, Windows, Mac.
+
+Here is a nice [introduction](https://itsfoss.com/copyq-clipboard-manager/)
+
+I map it to ctrl+alt-v.
 
 ## Chrome 
 
@@ -110,3 +114,12 @@ I love the Lenovo track point with extra grip.
 ## Drawing on Screenshots
 
 * https://szoter.com/launch/ Very simple user interface. I like it.
+
+
+## Terminal
+
+For the terminal (linux command line windows) I like to ues ctrl-c and ctrl-v for copy and paste.
+
+Unfortunately the default is different. By default ctrl-c means interrupt the current process.
+
+Likely this is easy to change in Gnome.
