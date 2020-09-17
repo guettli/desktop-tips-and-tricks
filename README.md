@@ -34,9 +34,9 @@ https://support.google.com/chrome/answer/157179
 * Ctrl and +: Make everything on the page bigger    
 * Ctrl-l: Jump to the address bar (for searching a term or going to a previous page)
 * Alt + Left arrow:  Open the previous page from your browsing history in the current tab
-
-The third (pinned) tab is the mail app. I can start to compose a new mail with ctr + 3, "c".
-
+* ctrl-h: History
+* ctrl-w: Close current tab.
+* shift+esc: Taskmanager
 
 ### Native GUI vs Chrome
 
