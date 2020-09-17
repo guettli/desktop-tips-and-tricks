@@ -21,6 +21,8 @@ I map it to ctrl+alt-v.
 
 ## Chrome 
 
+[Chrome is my new desktop](https://github.com/guettli/chrome-is-my-desktop)
+
 ### Shortcuts
 
 https://support.google.com/chrome/answer/157179
