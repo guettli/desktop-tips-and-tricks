@@ -23,7 +23,7 @@ I map it to ctrl+alt-v.
 
 [Chrome is my new desktop](https://github.com/guettli/chrome-is-my-desktop)
 
-### Shortcuts
+### Chrome Shortcuts
 
 https://support.google.com/chrome/answer/157179
 
@@ -75,6 +75,12 @@ Option "Jump to previous tab on close of any tab (Tip: use to close tabs in reve
 ### One laptop, two chrome profiles (personal, business)
 
 See profile image right to the URL in chrome.
+
+## GSuite
+
+# GSuite Calendar
+
+I like to view four days at once.
 
 ## Slack
 
