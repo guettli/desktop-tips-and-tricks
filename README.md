@@ -131,3 +131,7 @@ For the terminal (linux command line windows) I like to ues ctrl-c and ctrl-v fo
 Unfortunately the default is different. By default ctrl-c means interrupt the current process.
 
 Likely this is easy to change in Gnome.
+
+# More
+
+[Thomas WOL: Working out Loud](https://github.com/guettli/wol)
