@@ -98,6 +98,10 @@ Goal: Use the chat without touching the mouse. Shortcuts I use:
 * ctrl-k: goto channel or contact
 * Alt + Left arrow (Chrome shortcut): Open the previous page from your browsing history in the current tab
 
+Config:
+
+* I prefer that "Enter" starts a new line. "Enter" should not send the message. See "Preferences > Advanced > When writing a message, press Enter to…"
+
 ### Slack: Focused walk through the last messages in "Threads".
 
 * Click on "Threads" (upper left corner)
