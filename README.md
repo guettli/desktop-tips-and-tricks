@@ -136,6 +136,16 @@ Unfortunately the default is different. By default ctrl-c means interrupt the cu
 
 Likely this is easy to change in Gnome.
 
+# ActivityWatch
+
+At work we use a commercial application to track our activity. I use this tool manually: If I start to work
+on something I press a button and to finish time tracking I press again.
+
+From time to time I forget to start or stop.
+
+That's why I use the open source tool [ActivityWatch](https://activitywatch.net/) to track everything I do automatically.
+This way it is easy to find the point in time where I started/stopped to work.
+
 # More
 
 [Thomas WOL: Working out Loud](https://github.com/guettli/wol)
