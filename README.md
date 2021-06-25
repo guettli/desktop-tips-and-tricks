@@ -60,6 +60,11 @@ sense any more.
 The autocomplete in the chrome address bar is fine. You just need to remember some part of the URL or 
 the title of the page you want to open.
 
+### History (ctrl-h)
+
+I use ctrl-h several times per week. It gives my fast access to the pages which I visited in the past.
+
+
 ### Chrome Extensions
 
 #### Chrome Extension "Quick Tabs"
