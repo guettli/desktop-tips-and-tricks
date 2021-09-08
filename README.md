@@ -151,6 +151,11 @@ From time to time I forget to start or stop.
 That's why I use the open source tool [ActivityWatch](https://activitywatch.net/) to track everything I do automatically.
 This way it is easy to find the point in time where I started/stopped to work.
 
+# Screencasts
+
+On Linux the tool Kazam works fine. But you should use webm output, since the mp4 output does not work in Firefox.
+
+
 # More
 
 [Thomas WOL: Working out Loud](https://github.com/guettli/wol)
