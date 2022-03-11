@@ -107,6 +107,8 @@ Config:
 
 * I prefer that "Enter" starts a new line. "Enter" should not send the message. See "Preferences > Advanced > When writing a message, press Enter to…"
 
+Use "dnd" (do not disturb) if you are on vacation or sick. If you have guidelines in your company, I would try to add this to the guidelines. It does not scale, if everybody should remember who is currently on vacation and who is available.
+
 ### Slack: Focused walk through the last messages in "Threads".
 
 * Click on "Threads" (upper left corner)
