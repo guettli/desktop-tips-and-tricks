@@ -106,6 +106,7 @@ Goal: Use the chat without touching the mouse. Shortcuts I use:
 Config:
 
 * I prefer that "Enter" starts a new line. "Enter" should not send the message. See "Preferences > Advanced > When writing a message, press Enter to…"
+* Don't ask me why direct messages are not sorted by "most recently" by default. Click on "⋮" and then "sort" ...
 
 Use "dnd" (do not disturb) if you are on vacation or sick. If you have guidelines in your company, I would try to add this to the guidelines. It does not scale, if everybody should remember who is currently on vacation and who is available.
 
