@@ -135,6 +135,8 @@ but this can scratch the display if the display touches the sandpaper if you clo
 
 There are see [3D printed super low profile caps](Super Low Profile SoftRim). See [reddit thread "More grip for the trackpoint?"](https://www.reddit.com/r/thinkpad/comments/qkzffd/more_grip_for_the_trackpoint_cap/)
 
+Scrolling is fast via middle-mouse-button-click and moving the track point.
+
 ## Drawing on Screenshots
 
 * https://szoter.com/launch/ Very simple user interface. I like it.
