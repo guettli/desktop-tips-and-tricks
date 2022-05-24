@@ -167,4 +167,6 @@ On Linux the tool Kazam works fine. But you should use webm output, since the mp
 
 # More
 
-[Thomas WOL: Working out Loud](https://github.com/guettli/wol)
+* [Thomas WOL: Working out Loud](https://github.com/guettli/wol)
+* [Ten Flying Fingers (improve touch typing)](https://github.com/guettli/ten-flying-fingers)
+
