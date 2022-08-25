@@ -129,13 +129,17 @@ Free Web app to learn it: https://www.tipp10.com/
 
 I love the Lenovo track point with extra grip. 
 
-In the past I used 
-[sandpaper stuck on Trackpoint](https://raw.githubusercontent.com/guettli/programming-guidelines/master/sandpaper-sticked-on-track-point.jpg),
-but this can scratch the display if the display touches the sandpaper if you close the lid.
+I used [sandpaper stuck on Trackpoint](https://github.com/guettli/programming-guidelines/blob/master/sandpaper-glued-on-track-point.jpg) to 
+get the extra grip.
 
-There are see [3D printed super low profile caps](Super Low Profile SoftRim). See [reddit thread "More grip for the trackpoint?"](https://www.reddit.com/r/thinkpad/comments/qkzffd/more_grip_for_the_trackpoint_cap/)
+But be careful: this can scratch the display if the display touches the sandpaper if you close the lid.
 
-Scrolling is fast via middle-mouse-button-click and moving the track point.
+That's why I use an external USB Lenovo-Keyboard at the moment. Not perfect yet, please tell me if you have an idea how get maximum grip
+on a track point!
+
+There are [3D printed super low profile caps](Super Low Profile SoftRim). See [reddit thread "More grip for the trackpoint?"](https://www.reddit.com/r/thinkpad/comments/qkzffd/more_grip_for_the_trackpoint_cap/)
+
+BTW, scrolling is fast via middle-mouse-button-click and moving the track point.
 
 ## Drawing on Screenshots
 
