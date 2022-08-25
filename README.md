@@ -143,8 +143,7 @@ BTW, scrolling is fast via middle-mouse-button-click and moving the track point.
 
 ## Drawing on Screenshots
 
-* https://szoter.com/launch/ Very simple user interface. I like it.
-
+* https://www.tldraw.com/
 
 ## Terminal
 
