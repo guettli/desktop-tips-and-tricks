@@ -137,7 +137,7 @@ But be careful: this can scratch the display if the display touches the sandpape
 That's why I use an external USB Lenovo-Keyboard at the moment. Not perfect yet, please tell me if you have an idea how get maximum grip
 on a track point!
 
-There are [3D printed super low profile caps](Super Low Profile SoftRim). See [reddit thread "More grip for the trackpoint?"](https://www.reddit.com/r/thinkpad/comments/qkzffd/more_grip_for_the_trackpoint_cap/)
+There are 3D printed super low profile caps. See [reddit thread "More grip for the trackpoint?"](https://www.reddit.com/r/thinkpad/comments/qkzffd/more_grip_for_the_trackpoint_cap/)
 
 BTW, scrolling is fast via middle-mouse-button-click and moving the track point.
 
