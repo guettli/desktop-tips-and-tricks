@@ -167,6 +167,13 @@ This way it is easy to find the point in time where I started/stopped to work.
 
 On Linux the tool Kazam works fine. But you should use webm output, since the mp4 output does not work in Firefox.
 
+# DVD transcoding
+
+
+[Handbrake](https://handbrake.fr/), an easy to use native GUI to transcode DVDs.
+
+Sometimes you need [makemkv](https://www.makemkv.com/) to transcode.
+
 
 # More
 
