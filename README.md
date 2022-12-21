@@ -169,10 +169,16 @@ On Linux the tool Kazam works fine. But you should use webm output, since the mp
 
 # DVD transcoding
 
-
 [Handbrake](https://handbrake.fr/), an easy to use native GUI to transcode DVDs.
 
 Sometimes you need [makemkv](https://www.makemkv.com/) to transcode.
+
+# Putting Images/Text on PDF
+
+[Xournal++](https://xournalpp.github.io/)
+
+> Xournal++ (/ˌzɚnl̟ˌplʌsˈplʌs/) is an open-source and cross-platform note-taking software that is fast, flexible, and functional. A modern rewrite and a more feature-rich version of the wonderful Xournal program.
+
 
 
 # More
