@@ -179,6 +179,7 @@ Sometimes you need [makemkv](https://www.makemkv.com/) to transcode.
 
 > Xournal++ (/ˌzɚnl̟ˌplʌsˈplʌs/) is an open-source and cross-platform note-taking software that is fast, flexible, and functional. A modern rewrite and a more feature-rich version of the wonderful Xournal program.
 
+Available on MacOS, Windows, and Linux
 
 
 # More
