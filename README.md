@@ -19,7 +19,7 @@ Here is a nice [introduction](https://itsfoss.com/copyq-clipboard-manager/)
 
 I map it to ctrl+alt-v.
 
-## Chrome 
+## Chrome / Chromium
 
 [Chrome is my new desktop](https://github.com/guettli/chrome-is-my-desktop)
 
@@ -66,6 +66,16 @@ I use ctrl-h several times per week. It gives my fast access to the pages which 
 
 
 ### Chrome Extensions
+
+#### Chrome Extension "Copy Title and Url as Markdown Style"
+
+Often I need to send an URL via Slack, Zulip or an other system which supports Markdown.
+
+This extension is handy: It copies the current URL and page title as Markdownlink in the format `[page title](url)`.
+
+[Copy Title and Url as Markdown Style - Chrome Web Store](https://chromewebstore.google.com/detail/copy-title-and-url-as-mar/fpmbiocnfbjpajgeaicmnjnnokmkehil)
+
+The default short-cut (ctrl-shift-c) did not work for me, so I configured it to ctrl-shift-l (L ~> Link).
 
 #### Chrome Extension "Quick Tabs"
 
