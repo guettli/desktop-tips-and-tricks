@@ -77,6 +77,12 @@ This extension is handy: It copies the current URL and page title as Markdownlin
 
 The default short-cut (ctrl-shift-c) did not work for me, so I configured it to ctrl-shift-l (L ~> Link).
 
+#### Chrome Extension "Tab Modifier"
+
+https://github.com/furybee/chrome-tab-modifier
+
+For example you have two Google Docs as pinned tabs. One doc for the planing (simple personal issue tracking), and a second where you write down what you did (aka "Log"). Both show the same icon. But you want to see a difference. This extensions lets you modify the icon easily. It is open source.
+
 #### Chrome Extension "Quick Tabs"
 
 [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb): A keyboard centric most recently used (MRU) ordered tab list plugin with search and switch functionality (inspired by IntelliJ IDEA). 
